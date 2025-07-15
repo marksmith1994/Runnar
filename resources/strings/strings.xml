@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<resources>
+    <string id="AppName">Runnar</string>
+    <string id="ReadyToRun">Ready to run!</string>
+    <string id="Start">Start</string>
+    <string id="Stop">Stop</string>
+    <string id="Pause">Pause</string>
+    <string id="Resume">Resume</string>
+</resources> 
